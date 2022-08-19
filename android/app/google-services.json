@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022779474573",
+    "project_id": "videozup",
+    "storage_bucket": "videozup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022779474573:android:3bfc8d67a2919f5ab858c4",
+        "android_client_info": {
+          "package_name": "com.vidzup.vidz_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022779474573-thv606ie7bmi8purda2hj7ov1makfgb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLyQw4jVFQYEvcJlz4RUQaKQPv9cUK3hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022779474573-thv606ie7bmi8purda2hj7ov1makfgb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
